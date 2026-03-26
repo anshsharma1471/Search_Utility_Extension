@@ -1,3 +1,5 @@
+#Search_Utility_Extension
+
 The Search Utility Project is a simple and efficient application designed to quickly search and retrieve data from a dataset. This project demonstrates the implementation of searching algorithms and efficient data handling techniques to improve search speed and accuracy. It is useful for learning core programming concepts such as searching, data structures, and algorithm optimization.
 
 🚀 Features-
