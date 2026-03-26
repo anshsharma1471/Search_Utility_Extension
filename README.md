@@ -14,7 +14,6 @@ Algorithm Optimization
 Input/Output Operations
 
 🛠 Technologies Used-
-(Edit according to your project)
 Programming Language: HTML / CSS / Javascript
 IDE: VS Code
 Platform: Console-based Application 
